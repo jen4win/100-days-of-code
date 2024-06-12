@@ -8,6 +8,6 @@
 
 **Link(s) to work**
 1. [Find the Child Who Has the Ball](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/)
-2. [Duplicate all Zeros in a List]((https://py.checkio.org/en/mission/duplicate-zeros/))
+2. [Duplicate all Zeros in a List](https://py.checkio.org/en/mission/duplicate-zeros/)
 3. [Non-unique Elements - Trim an array down to its non-unique elements](https://py.checkio.org/en/mission/non-unique-elements/)
 4. [Even the Last - how to work with array indexes](https://py.checkio.org/en/mission/even-last/)
