@@ -6,7 +6,7 @@
 
 **Thoughts** I started coding in a Data Science Bootcamp and learnt so much about machine learning and so on. Now I want to become fluent in Python. So I start with some bascis. 
 
-**Link(s) to work**
+**Links to work**
 1. [Find the Child Who Has the Ball](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/)
 2. [Duplicate all Zeros in a List](https://py.checkio.org/en/mission/duplicate-zeros/)
 3. [Non-unique Elements - Trim an array down to its non-unique elements](https://py.checkio.org/en/mission/non-unique-elements/)
@@ -18,7 +18,7 @@
 
 **Thoughts** Today it was a lot about how to handle strings and datetime format.
 
-**Link(s) to work**
+**Links to work**
 1. [Extract first word - regardless of ., or '](https://py.checkio.org/en/mission/first-word/)
 2. [Three words - check string for three consecutive words](https://py.checkio.org/en/mission/three-words/)
 3. [Days difference - handle date format](https://py.checkio.org/en/mission/days-diff/)
