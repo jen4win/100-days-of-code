@@ -11,3 +11,14 @@
 2. [Duplicate all Zeros in a List](https://py.checkio.org/en/mission/duplicate-zeros/)
 3. [Non-unique Elements - Trim an array down to its non-unique elements](https://py.checkio.org/en/mission/non-unique-elements/)
 4. [Even the Last - how to work with array indexes](https://py.checkio.org/en/mission/even-last/)
+
+### Day 2: June 13, 2024 
+
+**Today's Progress**: I've gone through some exercises on Checkio.org
+
+**Thoughts** Today it was a lot about how to handle strings and datetime format.
+
+**Link(s) to work**
+1. [Extract first word - regardless of ., or '](https://py.checkio.org/en/mission/first-word/)
+2. [Three words - check string for three consecutive words](https://py.checkio.org/en/mission/three-words/)
+3. [Days difference - handle date format](https://py.checkio.org/en/mission/days-diff/)
