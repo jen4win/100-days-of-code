@@ -22,3 +22,12 @@
 1. [Extract first word - regardless of ., or '](https://py.checkio.org/en/mission/first-word/)
 2. [Three words - check string for three consecutive words](https://py.checkio.org/en/mission/three-words/)
 3. [Days difference - handle date format](https://py.checkio.org/en/mission/days-diff/)
+
+### Day 3: June 14, 2024 
+
+**Today's Progress**: I've gone through an exercises on Checkio.org
+
+**Thoughts** Today it was hard for me to figure out the errors in my code but in the end it worked. 
+
+**Links to work**
+[Changing directions - in a sequence of integers](https://py.checkio.org/en/mission/changing-direction/)
