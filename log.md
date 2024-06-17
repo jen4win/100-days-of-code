@@ -34,10 +34,19 @@
 
 ### Day 4: June 17, 2024 
 
-**Today's Progress**: I've gone through an exercises on Checkio.org
+**Today's Progress**: I've gone through some exercises on Checkio.org and discovered the in-built function sorted()
 
-**Thoughts** I worked again on handling strings and applying those methods. As well I was using a lambda function to access different dictionnaries in a list, so I reached the next level of complexity of the tasks! That makes me very proud. 
+**Thoughts** I worked again on handling strings and applying those methods. As well I was using a lambda function to access different dictionaries in a list, so I reached the next level of complexity of the tasks! That makes me very proud. 
 
 **Links to work**
 [Backward each word of a string without changing the order](https://py.checkio.org/en/mission/backward-each-word/)
 [Find the most expensive products in a list of products - a list of dictionnaries](https://py.checkio.org/en/mission/bigger-price/)
+
+### Day 5: June 18, 2024 
+
+**Today's Progress**: I delved into the in-built function str.find()
+
+**Thoughts** Sometimes I underestimate the power of knowing the in-built functions. So today I learnt a new one. 
+
+**Links to work**
+[Return string between markers](https://py.checkio.org/en/mission/between-markers/)
