@@ -31,3 +31,12 @@
 
 **Links to work**
 [Changing directions - in a sequence of integers](https://py.checkio.org/en/mission/changing-direction/)
+
+### Day 4: June 17, 2024 
+
+**Today's Progress**: I've gone through an exercises on Checkio.org
+
+**Thoughts** I worked again on handling strings and apply those methods and reached the next level of complexity of the tasks! That makes me very proud. 
+
+**Links to work**
+[Backward each word of a string without changing the order](https://py.checkio.org/en/mission/backward-each-word/)
