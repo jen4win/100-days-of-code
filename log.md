@@ -44,9 +44,25 @@
 
 ### Day 5: June 18, 2024 
 
-**Today's Progress**: I delved into the in-built function str.find()
+**Today's Progress**: I delved into the built-in function str.find() and some others. 
 
-**Thoughts** Sometimes I underestimate the power of knowing the in-built functions. So today I learnt a new one. 
+**Thoughts** Sometimes I underestimate the power of knowing the built-in functions. So today I learnt a new one and had a look into the general overview. Sometimes, I realize that I am trying to code something from scratch and end up that there is a function for it that I just did not know. 
 
 **Links to work**
 [Return string between markers](https://py.checkio.org/en/mission/between-markers/)
+[Built-in Functions](https://docs.python.org/3/library/functions.html#sorted)
+
+### Day 6: June 19, 2024 
+
+**Today's Progress**: This day was special as I was participating in a Data Scientist coding challenge.
+
+**Thoughts** I was a bit nervous, about what to expect but in the end, it was a mix of coding and quizzes. So I had to write a Jupyter notebook and coded a lot for EDA and also modelling (Linear Regression). But unfortunately, I am not allowed to share more details or the code.
+
+### Day 7: June 20, 2024 
+
+**Today's Progress**: Titanic - Going again into **Logistic Regression**.
+
+**Thoughts** I want to refresh my modelling skills, so I decided to go into the **machine learning basics** and started today with EDA and Logistic Regression for the Titanic dataset.
+
+**Links to work**
+
