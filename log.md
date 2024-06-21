@@ -72,3 +72,10 @@
 **Today's Progress**: **Building Generative AI Apps with Azure OpenAI Services**
 
 **Thoughts** I am so glad that I found this event. Workshops are valuable possibilities for me to get in touch with important programmes and APIs. So I started today with this Microsoft Virtual Training Day to get an introduction into **Microsoft Azure OpenAI Services** and **use it to integrate a GenAI App** into any application or web service.
+What I learnt:
+- What do I need for a responsible AI?
+- Use cases for GenAI
+- Introduction into Azure OpenAI Studio
+- Integration of REST APIs in Python and Shell
+- Tuning parameters for Completion and ChatCompletion like Temperatur, max_token or defining the system role and giving few-shot-examples
+- Prompt Engineering e.g. by step by step output, sharpen prompts with examples and precise roles to get the output I want
