@@ -65,4 +65,10 @@
 **Thoughts** I want to refresh my modelling skills, so I decided to go into the **machine learning basics** and started today with EDA and Logistic Regression for the Titanic dataset.
 
 **Links to work**
+[Titanic Notebook](https://github.com/jen4win/100-days-of-code/blob/master/practice_files/Titanic_Logistic_Regression_Exercise.ipynb)
 
+### Day 8: June 21, 2024 
+
+**Today's Progress**: **Building Generative AI Apps with Azure OpenAI Services**
+
+**Thoughts** I am so glad that I found this event. Workshops are valuable possibilities for me to get in touch with important programmes and APIs. So I started today with this Microsoft Virtual Training Day to get an introduction into **Microsoft Azure OpenAI Services** and **use it to integrate a GenAI App** into any application or web service.
