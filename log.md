@@ -75,7 +75,17 @@
 What I learnt:
 - What do I need for a responsible AI?
 - Use cases for GenAI
-- Introduction into Azure OpenAI Studio
+- Introduction to Azure OpenAI Studio
 - Integration of REST APIs in Python and Shell
 - Tuning parameters for Completion and ChatCompletion like Temperatur, max_token or defining the system role and giving few-shot-examples
 - Prompt Engineering e.g. by step by step output, sharpen prompts with examples and precise roles to get the output I want
+
+### Day 9: June 24, 2024 
+
+**Today's Progress**: I've gone through some exercises on Checkio.org
+
+**Thoughts** Today it was a lot about how to handle strings and check integers in regard to the input.
+
+**Links to work**
+[Nearest value in a list of integers](https://py.checkio.org/en/mission/nearest-value/)
+[Correct a sentence](https://py.checkio.org/en/mission/correct-sentence/)
