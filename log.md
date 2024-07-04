@@ -89,3 +89,21 @@ What I learnt:
 **Links to work**
 [Nearest value in a list of integers](https://py.checkio.org/en/mission/nearest-value/)
 [Correct a sentence](https://py.checkio.org/en/mission/correct-sentence/)
+
+### Day 10: June 25, 2024 
+
+**Today's Progress**: Today the KNN algorithm was part of my exercise.
+
+**Thoughts** As I am dealing with a lot of algorithms in data science, I sometimes ask myself, how they really work, so I wanted to create it from scratch.
+
+**Links to work**
+[KNN from scratch](https://github.com/jen4win/100-days-of-code/blob/master/practice_files/KNN_from_Scratch.ipynb)
+
+### Day 11: July 03, 2024 
+
+**Today's Progress**: Today the ridge algorithm was part of my exercise.
+
+**Thoughts** I played with a toy dataset Diabetes to apply the linear regression and test a regularization method to select the features. Therefore I applied Lasso and gained an improvement in the prediction results. 
+
+**Links to work**
+[Diabetes Lasso](https://github.com/jen4win/100-days-of-code/blob/master/practice_files/Diabetes_Lasso.ipynb)
