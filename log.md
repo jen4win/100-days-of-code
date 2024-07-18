@@ -107,3 +107,11 @@ What I learnt:
 
 **Links to work**
 [Diabetes Lasso](https://github.com/jen4win/100-days-of-code/blob/master/practice_files/Diabetes_Lasso.ipynb)
+
+### Day 12: July 18, 2024 
+
+**Today's Progress**: I trained again for some programming challenges.
+
+**Thoughts** I faced a little riddle in my last interview, which was about combining the elements of two lists in ascending order.
+
+**Links to work**
