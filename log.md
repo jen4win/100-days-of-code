@@ -112,6 +112,7 @@ What I learnt:
 
 **Today's Progress**: I trained again for some programming challenges.
 
-**Thoughts** I faced a little riddle in my last interview, which was about combining the elements of two lists in ascending order.
+**Thoughts** I faced a little riddle in my last interview, which was about combining the elements of two lists in ascending order. Now I revised how to define a type for input and output in the function and solved this task without the need for the sort-function.
 
 **Links to work**
+[Code for merging lists](https://github.com/jen4win/100-days-of-code/blob/master/practice_files/Merge_lists_ascending.ipynb)
